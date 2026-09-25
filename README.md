@@ -12,7 +12,7 @@
 | **2** | [hello-go](https://github.com/Evgeny65ok/hello-go) | 🐹 Go | Docker-образ | **GHCR** | push в `main` |
 | **3** | [hello-go-releases](https://github.com/Evgeny65ok/hello-go-releases) | 🐹 Go | Бинарники (5 платформ) | **GitHub Releases** | тег `v*` |
 | **4** | [PythonCLIRep](https://github.com/Evgeny65ok/PythonCLIRep) | 🐍 Python | Бинарники (3 платформы) | **GitHub Releases** | тег `v*` |
-
+| **5** | [C#/.NET](https://github.com/Evgeny65ok/hello-dotnet) |C#/.NET | Бинарники (2 платформы) | **GitHub Releases** | тег `v*` |
 ---
 
 ## 1. 🦀 hello-rust — Docker в GHCR
