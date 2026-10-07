@@ -15,6 +15,7 @@
 | **5** | [hello-dotnet](https://github.com/Evgeny65ok/hello-dotnet) | C#/.NET | Бинарники (2 платформы) | **GitHub Releases** | тег `v*` |
 | **6** | [hello-gui](https://github.com/Evgeny65ok/hello-gui) | 🐹 Go + Fyne | Бинарники (3 платформы) | **GitHub Releases** | тег `v*` |
 | **7** | [hex-loader](https://github.com/Evgeny65ok/hex-loader) | 🐹 Go + Fyne | Бинарники (3 платформы) | **GitHub Releases** | тег `v*` |
+| **8** | [arduino-manager](https://github.com/Evgeny65ok/arduino-manager) | 🐹 Go + Fyne | Бинарники (3 платформы) | **GitHub Releases** | тег `v*` |
 
 ## 1. 🦀 hello-rust — Docker в GHCR
 
