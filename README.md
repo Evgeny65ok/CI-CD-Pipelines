@@ -17,7 +17,12 @@
 | **7** | [hex-loader](https://github.com/Evgeny65ok/hex-loader) | 🐹 Go + Fyne | Бинарники (3 платформы) | **GitHub Releases** | тег `v*` |
 | **8** | [arduino-manager](https://github.com/Evgeny65ok/arduino-manager) | 🐹 Go + Fyne | Бинарники (3 платформы) | **GitHub Releases** | тег `v*` |
 
-| **10** | [hello-static](https://github.com/Evgeny65ok/hello-static) | 🌐 HTML/CSS/JS | Статический сайт | **GitHub Pages** | push в `main` |
+## CI/CD (Deploy)
+
+| Проект | Описание |
+|---|---|
+| **CI/CD статического сайта (HTML + CSS + JS) на GitHub Pages** | Деплой чистого статического сайта на живой URL через GitHub Pages, Environments и Deployments. Валидация HTML/CSS/JS без сборки, `needs: ci`, `environment: github-pages`, относительные пути. Файлы деплоятся **как есть**, без сборки. |
+| **CI/CD на GitHub Pages** | Автоматическая публикация статики через GitHub Actions: `actions/upload-pages-artifact` + `actions/deploy-pages`. Настройка `permissions: pages: write`, `id-token: write`, `concurrency: pages`. Деплой на каждый push в `main` без тегов. |
 
 ## 1. 🦀 hello-rust — Docker в GHCR
 
