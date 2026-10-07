@@ -1,6 +1,6 @@
 # 🚀 Учебные CI/CD пайплайны
 
-Сборник из **4 учебных проектов** — пайплайны CI/CD для разных языков и сценариев публикации артефактов.
+Сборник из **7 учебных проектов** — пайплайны CI/CD для разных языков и сценариев публикации артефактов.
 
 ---
 
@@ -12,9 +12,9 @@
 | **2** | [hello-go](https://github.com/Evgeny65ok/hello-go) | 🐹 Go | Docker-образ | **GHCR** | push в `main` |
 | **3** | [hello-go-releases](https://github.com/Evgeny65ok/hello-go-releases) | 🐹 Go | Бинарники (5 платформ) | **GitHub Releases** | тег `v*` |
 | **4** | [PythonCLIRep](https://github.com/Evgeny65ok/PythonCLIRep) | 🐍 Python | Бинарники (3 платформы) | **GitHub Releases** | тег `v*` |
-| **5** | [C#/.NET](https://github.com/Evgeny65ok/hello-dotnet) |C#/.NET | Бинарники (2 платформы) | **GitHub Releases** | тег `v*` |
-| **6** | [hello-gui](https://github.com/Evgeny65ok/hello-gui) ||hello-gui  | **GitHub Releases** | тег `v*` |
----
+| **5** | [hello-dotnet](https://github.com/Evgeny65ok/hello-dotnet) | C#/.NET | Бинарники (2 платформы) | **GitHub Releases** | тег `v*` |
+| **6** | [hello-gui](https://github.com/Evgeny65ok/hello-gui) | 🐹 Go + Fyne | Бинарники (3 платформы) | **GitHub Releases** | тег `v*` |
+| **7** | [hex-loader](https://github.com/Evgeny65ok/hex-loader) | 🐹 Go + Fyne | Бинарники (3 платформы) | **GitHub Releases** | тег `v*` |
 
 ## 1. 🦀 hello-rust — Docker в GHCR
 
