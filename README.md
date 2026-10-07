@@ -22,8 +22,7 @@
 | Проект | Описание |
 |---|---|
 | **CI/CD статического сайта (HTML + CSS + JS) на GitHub Pages** | [hello-static](https://github.com/Evgeny65ok/hello-static) — деплой чистого статического сайта на живой URL через GitHub Pages, Environments и Deployments. Валидация HTML/CSS/JS без сборки, `needs: ci`, `environment: github-pages`, относительные пути. Файлы деплоятся **как есть**, без сборки. |
-
-
+| **CI/CD на GitHub Pages (React SPA)** | [hello-pages](https://github.com/Evgeny65ok/hello-pages) — деплой React SPA (Vite + TypeScript) на GitHub Pages. Сборка `dist/` в CI, гейтинг деплоя через `needs: ci`, `actions/upload-artifact` + `download-artifact` для передачи артефакта между job'ами, `base: '/hello-pages/'` в `vite.config.ts`. Живой сайт: https://evgeny65ok.github.io/hello-pages/ |
 ## 1. 🦀 hello-rust — Docker в GHCR
 
 [![Repo](https://img.shields.io/badge/GitHub-hello--rust-181717?logo=github)](https://github.com/Evgeny65ok/hello-rust)
