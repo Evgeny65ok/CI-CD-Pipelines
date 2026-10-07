@@ -22,7 +22,7 @@
 | Проект | Описание |
 |---|---|
 | **CI/CD статического сайта (HTML + CSS + JS) на GitHub Pages** | [hello-static](https://github.com/Evgeny65ok/hello-static) — деплой чистого статического сайта на живой URL через GitHub Pages, Environments и Deployments. Валидация HTML/CSS/JS без сборки, `needs: ci`, `environment: github-pages`, относительные пути. Файлы деплоятся **как есть**, без сборки. |
-| **CI/CD на GitHub Pages** | [hello-static](https://github.com/Evgeny65ok/hello-static) — автоматическая публикация статики через GitHub Actions: `actions/upload-pages-artifact` + `actions/deploy-pages`. Настройка `permissions: pages: write`, `id-token: write`, `concurrency: pages`. Деплой на каждый push в `main` без тегов. |
+
 
 ## 1. 🦀 hello-rust — Docker в GHCR
 
