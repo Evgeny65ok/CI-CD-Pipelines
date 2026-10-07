@@ -1,6 +1,6 @@
 # 🚀 Учебные CI/CD пайплайны
 
-Сборник из **7 учебных проектов** — пайплайны CI/CD для разных языков и сценариев публикации артефактов.
+Сборник из **10 учебных проектов** — пайплайны CI/CD для разных языков и сценариев публикации артефактов.
 
 ---
 
@@ -16,6 +16,8 @@
 | **6** | [hello-gui](https://github.com/Evgeny65ok/hello-gui) | 🐹 Go + Fyne | Бинарники (3 платформы) | **GitHub Releases** | тег `v*` |
 | **7** | [hex-loader](https://github.com/Evgeny65ok/hex-loader) | 🐹 Go + Fyne | Бинарники (3 платформы) | **GitHub Releases** | тег `v*` |
 | **8** | [arduino-manager](https://github.com/Evgeny65ok/arduino-manager) | 🐹 Go + Fyne | Бинарники (3 платформы) | **GitHub Releases** | тег `v*` |
+| **9** | [cicd-deploy](https://github.com/Evgeny65ok/cicd-deploy) | 📖 Обзор | README с описанием CI/CD | — | — |
+| **10** | [hello-static](https://github.com/Evgeny65ok/hello-static) | 🌐 HTML/CSS/JS | Статический сайт | **GitHub Pages** | push в `main` |
 
 ## 1. 🦀 hello-rust — Docker в GHCR
 
